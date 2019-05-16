@@ -1,0 +1,2 @@
+worker: pip server.py
+web: public/src/views/app.html
